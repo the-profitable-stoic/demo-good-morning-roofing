@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Good Morning Roofing",
+    "phone": "+12137035917",
+    "category": "roofer",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Los Angeles' Roofing Experts",
+      "heroSubline": "Protecting homes and businesses across Southern California. Trust our experienced team for reliable roofing solutions.",
+      "aboutTitle": "Your Trusted Los Angeles Roofer",
+      "aboutText": [
+        "Good Morning Roofing started with a simple mission: to provide honest, reliable roofing services to our neighbors in Los Angeles. We saw a need for a roofing company that prioritized quality workmanship and customer satisfaction above all else.",
+        "We approach every project with meticulous attention to detail, using only the highest quality materials and proven techniques. From initial inspection to final cleanup, we're committed to exceeding expectations and delivering lasting results.",
+        "We're proud to be a part of the Los Angeles community. We actively support local initiatives and strive to minimize our environmental impact through responsible waste disposal and sustainable practices."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Decades of experience with LA's unique roofing challenges, from earthquake preparedness to wildfire mitigation."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the best roofing materials, designed to withstand the Southern California climate and provide lasting protection."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "Fully licensed and insured for your peace of mind. We adhere to the highest safety standards on every job site."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates and keep you informed throughout the project."
+        }
+      ],
+      "ctaHeadline": "Get a Free Roofing Estimate Today!",
+      "ctaSubline": "Protect your investment with a reliable roof. Contact us for a no-obligation consultation."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast, reliable roof repair services for any damage, big or small.",
+        "description": "From minor leaks to major storm damage, Good Morning Roofing provides comprehensive roof repair services to protect your home or business. We understand the urgency of roof repairs, especially in Los Angeles, where sudden downpours can quickly exacerbate existing problems. Our experienced technicians will thoroughly assess the damage, identify the source of the leak or issue, and provide a cost-effective solution. We handle all types of roofing materials, including tile, asphalt shingles, and flat roofing systems. \n\nWe prioritize lasting repairs over temporary fixes. We utilize high-quality materials and proven techniques to ensure that your roof is restored to its original condition and provides reliable protection for years to come. We also offer emergency roof repair services for urgent situations that require immediate attention. Don't let a damaged roof compromise the safety and value of your property – contact Good Morning Roofing for prompt and professional roof repair services.",
+        "process": [
+          "Step 1: Thorough inspection to identify all areas of damage.",
+          "Step 2: Detailed estimate outlining the scope of work and cost.",
+          "Step 3: Secure the area and prep for repair.",
+          "Step 4: Professional repair using quality materials and experienced technicians."
+        ],
+        "benefits": [
+          "Prevent further damage to your property.",
+          "Extend the lifespan of your roof.",
+          "Maintain the value of your home or business.",
+          "Peace of mind knowing your roof is in good condition."
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof repair request?",
+            "answer": "We understand the urgency of roof repairs and strive to respond as quickly as possible. In most cases, we can schedule an inspection within 24-48 hours."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer 24/7 emergency roof repair services for urgent situations that require immediate attention, such as severe leaks or storm damage."
+          },
+          {
+            "question": "How long will the roof repair take?",
+            "answer": "The duration of the repair will depend on the extent of the damage. We will provide you with an estimated timeline during the initial inspection."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Upgrade your roof with a durable, long-lasting replacement.",
+        "description": "Is your roof nearing the end of its lifespan? Are you experiencing frequent leaks or other issues that require constant repairs? It might be time for a roof replacement. Good Morning Roofing provides professional roof replacement services for homes and businesses in Los Angeles. We offer a wide selection of roofing materials to suit your style, budget, and the architectural character of your property, from classic Spanish tile to modern composite shingles. \n\nWe understand that roof replacement is a significant investment, and we're committed to making the process as smooth and stress-free as possible. Our experienced team will handle every aspect of the project, from removing the old roof to installing the new one with precision and care. We'll also ensure that your property is protected throughout the process and that all debris is properly disposed of. We take into account the unique challenges of the Los Angeles climate, including intense UV exposure and the risk of earthquakes, when recommending roofing materials and installation techniques. We ensure proper permitting and adhere to all local building codes.",
+        "process": [
+          "Step 1: Comprehensive roof inspection and material selection.",
+          "Step 2: Removal of the old roof and proper disposal of materials.",
+          "Step 3: Installation of underlayment and new roofing material.",
+          "Step 4: Final inspection and cleanup."
+        ],
+        "benefits": [
+          "Increased property value.",
+          "Enhanced curb appeal.",
+          "Improved energy efficiency.",
+          "Long-lasting protection from the elements."
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof, as well as the weather conditions. Typically, it takes between 3-7 days."
+          },
+          {
+            "question": "What type of roofing material is best for my home?",
+            "answer": "The best roofing material for your home depends on several factors, including your budget, the architectural style of your home, and your personal preferences. We can help you choose the right material during the initial consultation."
+          },
+          {
+            "question": "Will you handle the necessary permits for the roof replacement?",
+            "answer": "Yes, we will handle all necessary permits for the roof replacement to ensure compliance with local building codes."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspection",
+        "name": "Roof Inspection",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems early.",
+        "description": "Protect your investment with a professional roof inspection from Good Morning Roofing. Regular roof inspections are essential for identifying potential problems early, before they escalate into costly repairs. Our certified inspectors will thoroughly examine your roof for signs of damage, wear and tear, and other issues that could compromise its integrity. We'll assess the condition of your roofing materials, flashing, gutters, and other components to provide you with a comprehensive report. \n\nIn Los Angeles, the combination of intense sun, occasional heavy rains, and seismic activity can take a toll on roofs. We're experienced in identifying the specific issues that are common in this region, such as cracked tiles, deteriorated shingles, and damaged flashing. Our detailed inspection reports include photos and clear explanations of any issues found, along with recommendations for repair or maintenance. We offer both routine inspections and inspections for real estate transactions. A proactive approach to roof maintenance can save you money in the long run by preventing costly repairs and extending the lifespan of your roof. Don't wait until you have a leak – schedule a roof inspection today.",
+        "process": [
+          "Step 1: Schedule a convenient appointment for your roof inspection.",
+          "Step 2: Thorough inspection of the roof's surface, flashing, and drainage.",
+          "Step 3: Detailed report with photos and recommendations.",
+          "Step 4: Discussion of findings and options for repair or maintenance."
+        ],
+        "benefits": [
+          "Early detection of potential problems.",
+          "Prevention of costly repairs.",
+          "Extended lifespan of your roof.",
+          "Peace of mind knowing your roof is in good condition."
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, or more frequently if you live in an area prone to severe weather or seismic activity."
+          },
+          {
+            "question": "What does a roof inspection include?",
+            "answer": "A roof inspection includes a thorough examination of the roof's surface, flashing, gutters, and other components to identify any signs of damage, wear and tear, or other issues."
+          },
+          {
+            "question": "Will I receive a written report after the inspection?",
+            "answer": "Yes, you will receive a detailed written report with photos and recommendations for repair or maintenance."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Installation & Repair",
+        "shortDescription": "Protect your home with properly functioning gutters.",
+        "description": "Good Morning Roofing offers complete gutter installation and repair services to protect your home from water damage. Gutters play a crucial role in diverting rainwater away from your foundation, siding, and landscaping. Clogged or damaged gutters can lead to a host of problems, including foundation cracks, basement flooding, and wood rot. We install high-quality gutters in a variety of materials, including aluminum, copper, and steel, to suit your style and budget. \n\nOur experienced technicians will ensure that your gutters are properly sloped and securely attached to your home. We also offer gutter cleaning and repair services to keep your gutters functioning properly. In Los Angeles, where we experience periods of intense rainfall followed by long stretches of dry weather, it's essential to maintain your gutters to prevent water damage. We can also install gutter guards to prevent leaves and debris from clogging your gutters. Don't let damaged or clogged gutters compromise the integrity of your home – contact Good Morning Roofing for professional gutter services.",
+        "process": [
+          "Step 1: Inspection of existing gutters and assessment of needs.",
+          "Step 2: Selection of appropriate gutter materials and design.",
+          "Step 3: Professional installation or repair of gutters.",
+          "Step 4: Testing and cleanup."
+        ],
+        "benefits": [
+          "Protection from water damage.",
+          "Prevention of foundation problems.",
+          "Extended lifespan of your siding and landscaping.",
+          "Improved curb appeal."
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, or more frequently if you live in an area with many trees."
+          },
+          {
+            "question": "What are gutter guards, and do I need them?",
+            "answer": "Gutter guards are screens or mesh that are installed over your gutters to prevent leaves and debris from clogging them. They can be a great investment if you want to reduce the amount of time you spend cleaning your gutters."
+          },
+          {
+            "question": "What materials are available for gutters?",
+            "answer": "We offer gutters in a variety of materials, including aluminum, copper, and steel."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing Services",
+        "shortDescription": "Expert roofing solutions for businesses of all sizes.",
+        "description": "Good Morning Roofing provides comprehensive commercial roofing services to businesses throughout Los Angeles. We understand the unique challenges of commercial roofing, including the need for minimal disruption to business operations and adherence to strict building codes. Our experienced team has the expertise to handle all types of commercial roofing projects, from new construction to roof repairs and replacements. We work with a variety of roofing materials, including TPO, PVC, and modified bitumen, to provide durable, long-lasting solutions. \n\nWe prioritize safety and efficiency on every commercial roofing project. We also offer preventative maintenance programs to help businesses protect their investment and avoid costly repairs. We understand that a damaged roof can impact your bottom line, so we strive to provide prompt and reliable service to minimize downtime. Whether you own a small retail store or a large industrial complex, Good Morning Roofing has the expertise to meet your commercial roofing needs. We are familiar with the specific roofing requirements for various commercial buildings in Los Angeles.",
+        "process": [
+          "Step 1: Detailed assessment of the commercial roof.",
+          "Step 2: Development of a customized roofing plan.",
+          "Step 3: Professional installation or repair using quality materials.",
+          "Step 4: Ongoing maintenance and support."
+        ],
+        "benefits": [
+          "Minimized disruption to business operations.",
+          "Adherence to strict building codes.",
+          "Durable, long-lasting roofing solutions.",
+          "Protection of your commercial property."
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing systems do you install?",
+            "answer": "We install a variety of commercial roofing systems, including TPO, PVC, and modified bitumen."
+          },
+          {
+            "question": "Do you offer preventative maintenance programs for commercial roofs?",
+            "answer": "Yes, we offer preventative maintenance programs to help businesses protect their investment and avoid costly repairs."
+          },
+          {
+            "question": "How quickly can you respond to a commercial roofing emergency?",
+            "answer": "We understand the urgency of commercial roofing emergencies and strive to respond as quickly as possible. We offer 24/7 emergency service."
+          }
+        ]
+      },
+      {
+        "slug": "earthquake-retrofitting",
+        "name": "Earthquake Roof Retrofitting",
+        "shortDescription": "Strengthen your roof against seismic activity.",
+        "description": "Living in Los Angeles means being prepared for earthquakes. Good Morning Roofing specializes in earthquake roof retrofitting to reinforce your roof and protect your home and family. Older homes, especially those built before the 1980s, may not have the necessary structural support to withstand a major earthquake. Our earthquake roof retrofitting services involve strengthening the connections between your roof and walls to prevent collapse during seismic activity. We use proven techniques and high-quality materials to ensure that your roof is properly secured. \n\nWe understand the unique challenges of retrofitting existing homes in Los Angeles, including the need to preserve the architectural character of the building. Our experienced team will work closely with you to develop a customized retrofitting plan that meets your needs and budget. We'll also ensure that all work is performed in compliance with local building codes. Don't wait until it's too late – protect your home and family with earthquake roof retrofitting from Good Morning Roofing.",
+        "process": [
+          "Step 1: Inspection of existing roof structure and identification of weaknesses.",
+          "Step 2: Development of a customized retrofitting plan.",
+          "Step 3: Reinforcement of roof-to-wall connections.",
+          "Step 4: Final inspection and certification."
+        ],
+        "benefits": [
+          "Increased protection against earthquake damage.",
+          "Enhanced safety for your family and home.",
+          "Peace of mind knowing your roof is properly secured.",
+          "Potential insurance discounts."
+        ],
+        "faq": [
+          {
+            "question": "Why is earthquake roof retrofitting important in Los Angeles?",
+            "answer": "Los Angeles is located in an active earthquake zone, making earthquake roof retrofitting essential for protecting homes and families."
+          },
+          {
+            "question": "What does earthquake roof retrofitting involve?",
+            "answer": "Earthquake roof retrofitting involves strengthening the connections between your roof and walls to prevent collapse during seismic activity."
+          },
+          {
+            "question": "How much does earthquake roof retrofitting cost?",
+            "answer": "The cost of earthquake roof retrofitting depends on the size and complexity of the roof. We offer free estimates."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "Good Morning Roofing is proud to serve the vibrant city of Long Beach, California. We understand the unique roofing needs of Long Beach homeowners, especially those with the beautiful Craftsman homes built in the 1920s-40s that characterize many of the city's historic neighborhoods. From roof repairs and maintenance to complete roof replacements, we have the experience and expertise to protect your home from the warm, dry climate that Long Beach enjoys year-round.\n\nWe are committed to providing Long Beach residents with top-quality roofing services using the best materials and workmanship. Whether you need a tile roof repair, asphalt shingle replacement, or a cool roof installation to reduce energy costs, Good Morning Roofing is here to help. We offer free estimates and are dedicated to ensuring your complete satisfaction.",
+        "localContext": "Long Beach features a diverse architectural landscape, with a significant number of well-preserved Craftsman homes from the early 20th century. The warm, dry climate necessitates roofs that can withstand prolonged sun exposure and infrequent rainfall.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Good Morning Roofing is dedicated to providing Pasadena homeowners with exceptional roofing services. We appreciate the architectural charm of Pasadena, particularly the abundance of 1910s-30s Craftsman bungalows that grace the city's streets. Our team is experienced in working with a variety of roofing materials, ensuring that your roof complements the style and character of your Pasadena home.\n\nPasadena's warm, dry climate requires roofing systems that can withstand the intense California sun. We offer a range of roofing solutions, including energy-efficient options that can help reduce your cooling costs. From minor repairs to full roof replacements, Good Morning Roofing is your trusted partner for all your roofing needs in Pasadena.",
+        "localContext": "Pasadena is renowned for its historic architecture, especially its collection of Craftsman bungalows. The city's warm, dry climate places specific demands on roofing materials and installation techniques.",
+        "nearbyAreas": [
+          "South Pasadena",
+          "San Marino",
+          "Altadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Good Morning Roofing proudly serves the master-planned community of Irvine, California. We understand the specific roofing needs of Irvine homeowners, whose homes were primarily built from the 1970s to the present. We offer a full range of roofing services, from routine maintenance and repairs to complete roof replacements, ensuring your Irvine home is protected from the elements.\n\nIrvine's warm, dry climate demands durable and reliable roofing systems. Good Morning Roofing provides high-quality roofing solutions tailored to the Irvine community, including energy-efficient options to help reduce your energy bills. We are committed to providing exceptional customer service and quality workmanship.",
+        "localContext": "Irvine is a master-planned community characterized by modern homes built from the 1970s onward. The warm, dry climate influences the types of roofing materials and installation practices prevalent in the area.",
+        "nearbyAreas": [
+          "Tustin",
+          "Lake Forest",
+          "Newport Beach"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Good Morning Roofing is pleased to offer our expert roofing services to the residents of Santa Clarita, California. As a newer master-planned community with homes primarily built from the 1990s to the 2020s, Santa Clarita presents unique roofing requirements. We are well-versed in the latest roofing technologies and materials, ensuring that your roof is both durable and aesthetically pleasing.\n\nSanta Clarita's warm, dry climate necessitates roofing systems that can withstand prolonged sun exposure and occasional extreme temperatures. Good Morning Roofing is committed to providing Santa Clarita homeowners with top-quality roofing solutions, including energy-efficient options that can help reduce your cooling costs.",
+        "localContext": "Santa Clarita is a relatively new master-planned community featuring homes constructed primarily from the 1990s to the present. The city's warm, dry climate necessitates roofing solutions that are both durable and energy-efficient.",
+        "nearbyAreas": [
+          "Valencia",
+          "Canyon Country",
+          "Saugus"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Good Morning Roofing is proud to serve the community of Torrance, California. We understand the roofing needs of Torrance homeowners, particularly those with homes built during the post-war era of the 1950s and 60s. We offer a comprehensive range of roofing services, from minor repairs to complete roof replacements, tailored to the specific needs of Torrance properties.\n\nThe warm, dry climate of Torrance requires roofing systems that can withstand the elements and provide long-lasting protection. Good Morning Roofing is committed to providing Torrance residents with high-quality roofing solutions, exceptional customer service, and competitive pricing. We offer free estimates and are dedicated to ensuring your complete satisfaction.",
+        "localContext": "Torrance features many post-war homes from the 1950s and 60s, influencing the common roofing styles found in the area. The warm, dry climate requires roofs that are resistant to sun damage and can provide adequate insulation.",
+        "nearbyAreas": [
+          "Gardena",
+          "Redondo Beach",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-ca",
+        "state": "CA",
+        "content": "Good Morning Roofing is dedicated to providing Glendale homeowners with top-notch roofing services. We understand the diverse architectural styles found throughout Glendale, from historic homes to modern constructions. Our team is experienced in working with a variety of roofing materials and styles, ensuring that your roof complements the unique character of your Glendale home.\n\nGlendale's warm, dry climate places specific demands on roofing systems, requiring them to withstand prolonged sun exposure and occasional heat waves. Good Morning Roofing offers a comprehensive range of roofing solutions, including energy-efficient options that can help reduce your cooling costs. From minor repairs to full roof replacements, we are your trusted partner for all your roofing needs in Glendale.",
+        "localContext": "Glendale boasts a mix of architectural styles, with older homes alongside newer developments. The warm, dry climate necessitates durable roofing materials and proper installation techniques to ensure long-lasting performance.",
+        "nearbyAreas": [
+          "Burbank",
+          "Pasadena",
+          "La Cañada Flintridge"
+        ]
+      },
+      {
+        "city": "Burbank",
+        "slug": "burbank-ca",
+        "state": "CA",
+        "content": "Good Morning Roofing is proud to offer our roofing services to the residents of Burbank, California. We understand the specific roofing needs of Burbank homeowners, considering the diverse range of homes in the area. From older, established neighborhoods to newer developments, we have the expertise to handle any roofing project.\n\nBurbank's warm, dry climate requires roofing systems that can withstand the elements and provide reliable protection. Good Morning Roofing is committed to providing Burbank residents with high-quality roofing solutions, exceptional customer service, and competitive pricing. We offer free estimates and are dedicated to ensuring your complete satisfaction.",
+        "localContext": "Burbank is a diverse city with a mix of residential and commercial properties. The warm, dry climate necessitates roofing solutions that are both durable and energy-efficient.",
+        "nearbyAreas": [
+          "Glendale",
+          "North Hollywood",
+          "Toluca Lake"
+        ]
+      },
+      {
+        "city": "West Covina",
+        "slug": "west-covina-ca",
+        "state": "CA",
+        "content": "Good Morning Roofing is pleased to serve the community of West Covina, California. We understand the various roofing needs of West Covina homeowners and businesses. We provide a full range of services, including roof repair, replacement, and maintenance, ensuring your property is well-protected.\n\nWest Covina's climate demands reliable roofing that can withstand both sunny days and occasional rain. Good Morning Roofing offers quality roofing solutions to the city's residents, using the best materials and providing excellent customer service.",
+        "localContext": "West Covina features a mix of residential and commercial properties, with varying roofing styles. The climate requires roofs that are durable and well-maintained.",
+        "nearbyAreas": [
+          "Covina",
+          "Baldwin Park",
+          "La Puente"
+        ]
+      },
+      {
+        "city": "Pomona",
+        "slug": "pomona-ca",
+        "state": "CA",
+        "content": "Good Morning Roofing is dedicated to providing Pomona residents with high-quality roofing services. We understand the architectural diversity in Pomona, from historic homes to more recent constructions. Our experienced team is prepared to handle all types of roofing projects, ensuring the durability and aesthetic appeal of your property.\n\nPomona's warm climate requires roofing systems that can withstand prolonged sun exposure. Good Morning Roofing offers a wide range of roofing options, including energy-efficient materials that can help lower your cooling costs. Whether you need a minor repair or a complete roof replacement, we are committed to providing exceptional service and lasting results.",
+        "localContext": "Pomona features a blend of historic and modern architecture. The climate necessitates roofs that can endure the heat and provide adequate insulation.",
+        "nearbyAreas": [
+          "Claremont",
+          "San Dimas",
+          "La Verne"
+        ]
+      },
+      {
+        "city": "Downey",
+        "slug": "downey-ca",
+        "state": "CA",
+        "content": "Good Morning Roofing is proud to offer our expert roofing services to the residents of Downey, California. We are familiar with the various architectural styles found in Downey, and have experience working on a wide range of roofing systems. Our goal is to provide Downey homeowners with roofing solutions that are both durable and aesthetically pleasing.\n\nDowney's warm and generally dry climate requires roofing that can withstand the sun and infrequent rain. Good Morning Roofing offers a comprehensive range of roofing services, from minor repairs to full roof replacements. We use only the highest quality materials and provide expert workmanship to ensure your complete satisfaction.",
+        "localContext": "Downey has a diverse range of housing stock, from mid-century homes to newer developments. The local climate necessitates roofing systems that are resistant to sun damage and can withstand occasional storms.",
+        "nearbyAreas": [
+          "Norwalk",
+          "Bellflower",
+          "Santa Fe Springs"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "Good Morning Roofing came out quickly after the last storm and fixed the leak in my Silver Lake bungalow. They were professional, explained everything clearly, and the price was fair. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Roof Inspection",
+        "text": "I hired Good Morning Roofing for a roof inspection before buying a house in West LA. Their detailed report helped me negotiate a better price with the seller. Very thorough and professional.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We had a fantastic experience with Good Morning Roofing. They replaced our old tile roof with new composite shingles. The crew was efficient, respectful, and the new roof looks amazing! The price was competitive, and they were transparent about the whole process.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "The team at Good Morning Roofing installed new gutters on my home in Echo Park. They were prompt, courteous, and the installation was flawless. I appreciate their attention to detail and commitment to quality.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Susan A.",
+        "rating": 4,
+        "service": "Commercial Roof Repair",
+        "text": "Good Morning Roofing repaired a leak on our commercial building in Hollywood. They responded quickly and efficiently, minimizing disruption to our business. The repair was done well, and we haven't had any issues since.",
+        "date": "2024-09-12"
+      },
+      {
+        "name": "Michael C.",
+        "rating": 5,
+        "service": "Earthquake Roof Retrofitting",
+        "text": "Living in LA, earthquake preparedness is a must. Good Morning Roofing retrofitted our roof, and now I have much more peace of mind. They explained the process clearly and completed the work efficiently.",
+        "date": "2024-08-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Good Morning Roofing: Los Angeles Roofing",
+        "description": "Reliable roofing services in Los Angeles. Roof repair, replacement, inspection, and more. Free estimates! Call +12137035917"
+      },
+      "about": {
+        "title": "About Good Morning Roofing | Los Angeles CA",
+        "description": "Learn about Good Morning Roofing's commitment to quality roofing services in Los Angeles. Experienced, licensed, and insured roofers."
+      },
+      "services": {
+        "title": "Roofing Services | Good Morning Roofing",
+        "description": "Comprehensive roofing services in Los Angeles, CA. Roof repair, replacement, inspections, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Good Morning Roofing",
+        "description": "Contact Good Morning Roofing for free roofing estimates and expert roofing services in Los Angeles, CA. Call +12137035917"
+      },
+      "reviews": {
+        "title": "Good Morning Roofing Reviews",
+        "description": "Read reviews from satisfied Good Morning Roofing customers in Los Angeles. Quality roofing services and customer satisfaction guaranteed."
+      },
+      "service-areas": {
+        "title": "Service Areas | Good Morning Roofing",
+        "description": "Good Morning Roofing provides roofing services across Los Angeles. See our service area map and contact us today."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspection": "/images/service-roof-inspection.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp",
+      "earthquake-retrofitting": "/images/service-earthquake-retrofitting.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspection": {
+        "src": "/images/service-roof-inspection.webp",
+        "srcset": "/images/service-roof-inspection-400w.webp 400w, /images/service-roof-inspection-800w.webp 800w, /images/service-roof-inspection-1200w.webp 1200w, /images/service-roof-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "earthquake-retrofitting": {
+        "src": "/images/service-earthquake-retrofitting.webp",
+        "srcset": "/images/service-earthquake-retrofitting-400w.webp 400w, /images/service-earthquake-retrofitting-800w.webp 800w, /images/service-earthquake-retrofitting-1200w.webp 1200w, /images/service-earthquake-retrofitting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
